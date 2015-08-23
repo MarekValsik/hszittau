@@ -7,7 +7,7 @@
 QT       = core
 QT       += gui
 
-TARGET = RC1
+TARGET = Example_bcm2835
 CONFIG   += console
 CONFIG   -= app_bundle
 
